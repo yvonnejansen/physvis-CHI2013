@@ -1,6 +1,0 @@
-bugs ipad app
-
-[ ] 2d shows something broken when instructions are shown, then the model loads when question is displayed
-[ ] 2nd repetition loads next condition on PC instead (but shows instructions for the current correct one which is also not meant to be)
-[ ] crashes after third repetition
-[ ] log corrections of button presses (for answers)
