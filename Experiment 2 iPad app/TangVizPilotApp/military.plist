@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Root</key>
+	<array>
+		<dict>
+			<key>useColors</key>
+			<false/>
+			<key>correct answer</key>
+			<array>
+				<string>Croatia in 2005</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which of the following military expenditures is the lowest?</string>
+			<key>name</key>
+			<string>choice</string>
+			<key>answers</key>
+			<array>
+				<string>Macedonia in 1998</string>
+				<string>Croatia in 2005</string>
+				<string>Ethiopia in 1997</string>
+			</array>
+		</dict>
+		<dict>
+			<key>useColors</key>
+			<false/>
+			<key>correct answer</key>
+			<array>
+				<string>Croatia in 2006</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which of the following military expenditures is the lowest?</string>
+			<key>name</key>
+			<string>choice</string>
+			<key>answers</key>
+			<array>
+				<string>Zimbabwe in 1999</string>
+				<string>Ethiopia in 1997</string>
+				<string>Croatia in 2006</string>
+			</array>
+		</dict>
+		<dict>
+			<key>useColors</key>
+			<false/>
+			<key>correct answer</key>
+			<array>
+				<string>Sudan in 1998</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which of the following military expenditures is the lowest?</string>
+			<key>name</key>
+			<string>choice</string>
+			<key>answers</key>
+			<array>
+				<string>Sudan in 1998</string>
+				<string>Ethiopia in 1997</string>
+				<string>Kuwait in 2006</string>
+			</array>
+		</dict>
+		<dict>
+			<key>useColors</key>
+			<false/>
+			<key>correct answer</key>
+			<array>
+				<string>Sudan in 1998</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which of the following military expenditures is the lowest?</string>
+			<key>name</key>
+			<string>choice</string>
+			<key>answers</key>
+			<array>
+				<string>Sudan in 1998</string>
+				<string>Angola in 1998</string>
+				<string>Georgia in 2005</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

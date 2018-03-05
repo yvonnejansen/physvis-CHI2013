@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Root</key>
+	<array>
+		<dict>
+			<key>useColors</key>
+			<false/>
+			<key>correct answer</key>
+			<array>
+				<string>Iran in 1963</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which of the following food consumptions is the lowest?</string>
+			<key>name</key>
+			<string>choice</string>
+			<key>answers</key>
+			<array>
+				<string>Iran in 1963</string>
+				<string>Chad in 1971</string>
+				<string>Gambia in 1965</string>
+			</array>
+			<key>colors</key>
+			<array>
+				<integer>2</integer>
+				<integer>4</integer>
+				<integer>8</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>useColors</key>
+			<false/>
+			<key>correct answer</key>
+			<array>
+				<string>Libya in 1963</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which of the following food consumptions is the lowest?</string>
+			<key>name</key>
+			<string>choice</string>
+			<key>answers</key>
+			<array>
+				<string>Libya in 1963</string>
+				<string>Jamaica in 1969</string>
+				<string>Seychelles in 1975</string>
+			</array>
+			<key>colors</key>
+			<array>
+				<integer>2</integer>
+				<integer>4</integer>
+				<integer>8</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>useColors</key>
+			<false/>
+			<key>correct answer</key>
+			<array>
+				<string>Chad in 1975</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which of the following food consumptions is the lowest?</string>
+			<key>name</key>
+			<string>choice</string>
+			<key>answers</key>
+			<array>
+				<string>Cyprus in 1963</string>
+				<string>Libya in 1969</string>
+				<string>Chad in 1975</string>
+			</array>
+			<key>colors</key>
+			<array>
+				<integer>2</integer>
+				<integer>4</integer>
+				<integer>8</integer>
+			</array>
+		</dict>
+		<dict>
+			<key>useColors</key>
+			<false/>
+			<key>correct answer</key>
+			<array>
+				<string>Cyprus in 1961</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which of the following food consumptions is the lowest?</string>
+			<key>name</key>
+			<string>choice</string>
+			<key>answers</key>
+			<array>
+				<string>Cyprus in 1961</string>
+				<string>Jamaica in 1971</string>
+				<string>Cyprus in 1977</string>
+			</array>
+			<key>colors</key>
+			<array>
+				<integer>2</integer>
+				<integer>4</integer>
+				<integer>8</integer>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

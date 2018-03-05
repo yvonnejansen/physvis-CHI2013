@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Root</key>
+	<array>
+		<dict>
+			<key>useColors</key>
+			<false/>
+			<key>correct answer</key>
+			<array>
+				<string>Korea Rep. in 2000</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which of the following car mortality rates is the lowest?</string>
+			<key>name</key>
+			<string>choice</string>
+			<key>answers</key>
+			<array>
+				<string>Brazil in 1998</string>
+				<string>Korea Rep. in 2000</string>
+				<string>Estonia in 2003</string>
+			</array>
+		</dict>
+		<dict>
+			<key>useColors</key>
+			<false/>
+			<key>correct answer</key>
+			<array>
+				<string>Iceland in 1997</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which of the following car mortality rates is the lowest?</string>
+			<key>name</key>
+			<string>choice</string>
+			<key>answers</key>
+			<array>
+				<string>Iceland in 1997</string>
+				<string>Korea Rep. in 2002</string>
+				<string>France in 2005</string>
+			</array>
+		</dict>
+		<dict>
+			<key>useColors</key>
+			<false/>
+			<key>correct answer</key>
+			<array>
+				<string>South Africa in 1997</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which of the following car mortality rates is the lowest?</string>
+			<key>name</key>
+			<string>choice</string>
+			<key>answers</key>
+			<array>
+				<string>South Africa in 1997</string>
+				<string>France in 2001</string>
+				<string>Spain in 2003</string>
+			</array>
+		</dict>
+		<dict>
+			<key>useColors</key>
+			<false/>
+			<key>correct answer</key>
+			<array>
+				<string>Ecuador in 2005</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which of the following car mortality rates is the lowest?</string>
+			<key>name</key>
+			<string>choice</string>
+			<key>answers</key>
+			<array>
+				<string>Brazil in 1998</string>
+				<string>Ecuador in 2005</string>
+				<string>Spain in 2006</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

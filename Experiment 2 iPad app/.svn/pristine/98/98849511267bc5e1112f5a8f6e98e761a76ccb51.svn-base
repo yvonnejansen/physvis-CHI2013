@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>questions</key>
+	<array>
+		<string>instructions-01</string>
+		<string>instructions-02</string>
+	</array>
+	<key>physical-touch</key>
+	<array>
+		<string>instructions-physicaltouch</string>
+	</array>
+	<key>physical-notouch</key>
+	<array>
+		<string>instructions-physicalnotouch</string>
+	</array>
+	<key>virtual-prop</key>
+	<array>
+		<string>instructions-monoprop</string>
+	</array>
+	<key>virtual-mouse</key>
+	<array>
+		<string>instructions-monomouse</string>
+	</array>
+	<key>training</key>
+	<array>
+		<string>instructions-training</string>
+	</array>
+</dict>
+</plist>

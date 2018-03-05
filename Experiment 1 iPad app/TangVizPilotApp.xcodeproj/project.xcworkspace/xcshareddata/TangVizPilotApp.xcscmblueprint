@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0d1c9f04-d229-0410-8ab3-be065fec5d02++7274",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "0d1c9f04-d229-0410-8ab3-be065fec5d02++7274" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0d1c9f04-d229-0410-8ab3-be065fec5d02++7274" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "351A03AB-B09E-4309-B670-403FC8F3A286",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0d1c9f04-d229-0410-8ab3-be065fec5d02++7274" : "TangVizPilotApp%20(ipad)\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "TangVizPilotApp",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "TangVizPilotApp.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/scm.gforge.inria.fr\/authscm\/yjansen\/svn\/aviz",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0d1c9f04-d229-0410-8ab3-be065fec5d02++7274"
+    }
+  ]
+}

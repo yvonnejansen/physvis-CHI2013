@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Root</key>
+	<array>
+		<dict>
+			<key>correct answer</key>
+			<array>
+				<string>15.25825</string>
+			</array>
+			<key>type</key>
+			<string>number</string>
+			<key>question</key>
+			<string>Give the value for Latvia in 1997.</string>
+			<key>answers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>correct answer</key>
+			<array>
+				<string>17.04455</string>
+			</array>
+			<key>type</key>
+			<string>bar</string>
+			<key>question</key>
+			<string>Set the bar to the value for Venezuela in 1999.</string>
+			<key>answers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>correct answer</key>
+			<array>
+				<string>Venezuela</string>
+				<string>Russia</string>
+				<string>Guatemala</string>
+			</array>
+			<key>type</key>
+			<string>multi</string>
+			<key>question</key>
+			<string>If we consider all values greater than 20 as high, which countries have high values at any point in time?</string>
+			<key>answers</key>
+			<array>
+				<string>Guatemala</string>
+				<string>Russia</string>
+				<string>Venezuela</string>
+				<string>Kazakhstan</string>
+				<string>Estonia</string>
+				<string>Mexico</string>
+				<string>Dom. Rep.</string>
+				<string>Latvia</string>
+				<string>Moldova</string>
+				<string>Israel</string>
+			</array>
+		</dict>
+		<dict>
+			<key>correct answer</key>
+			<array>
+				<string>Venezuela</string>
+				<string>Russia</string>
+				<string>Guatemala</string>
+			</array>
+			<key>type</key>
+			<string>multi</string>
+			<key>question</key>
+			<string>If you consider all values smaller than 10 as low, which countries have low values at any point in time?</string>
+			<key>answers</key>
+			<array>
+				<string>Guatemala</string>
+				<string>Russia</string>
+				<string>Venezuela</string>
+				<string>Kazakhstan</string>
+				<string>Estonia</string>
+				<string>Mexico</string>
+				<string>Dom. Rep.</string>
+				<string>Latvia</string>
+				<string>Moldova</string>
+				<string>Israel</string>
+			</array>
+		</dict>
+		<dict>
+			<key>correct answer</key>
+			<array>
+				<string>10.5366565</string>
+			</array>
+			<key>type</key>
+			<string>bar</string>
+			<key>question</key>
+			<string>Indicate the average value for Moldova.</string>
+			<key>answers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>correct answer</key>
+			<array>
+				<string>1999</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which year has the lowest average value?</string>
+			<key>answers</key>
+			<array>
+				<string>1996</string>
+				<string>1997</string>
+				<string>1998</string>
+				<string>1999</string>
+				<string>2000</string>
+				<string>2001</string>
+				<string>2002</string>
+				<string>2003</string>
+				<string>2004</string>
+				<string>2005</string>
+			</array>
+		</dict>
+		<dict>
+			<key>correct answer</key>
+			<array>
+				<string>Venezuela</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which country has the highest value in 2002?</string>
+			<key>answers</key>
+			<array>
+				<string>Guatemala</string>
+				<string>Russia</string>
+				<string>Venezuela</string>
+				<string>Kazakhstan</string>
+				<string>Estonia</string>
+				<string>Mexico</string>
+				<string>Dom. Rep.</string>
+				<string>Latvia</string>
+				<string>Moldova</string>
+				<string>Israel</string>
+			</array>
+		</dict>
+		<dict>
+			<key>answers</key>
+			<array>
+				<string>1996</string>
+				<string>1997</string>
+				<string>1998</string>
+				<string>1999</string>
+				<string>2000</string>
+				<string>2001</string>
+				<string>2002</string>
+				<string>2003</string>
+				<string>2004</string>
+				<string>2005</string>
+			</array>
+			<key>correct answer</key>
+			<array>
+				<string>2002</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>In which year has Kazakhstan its lowest value?</string>
+		</dict>
+		<dict>
+			<key>correct answer</key>
+			<array>
+				<string>Israel</string>
+				<string>Estonia</string>
+				<string>Moldova</string>
+				<string>Latvia</string>
+				<string>Mexico</string>
+				<string>Kazakhstan</string>
+				<string>Dom. Rep.</string>
+				<string>Russia</string>
+				<string>Venezuela</string>
+				<string>Guatemala</string>
+			</array>
+			<key>type</key>
+			<string>rank</string>
+			<key>question</key>
+			<string>Order all countries for the year 2004 from lowest to highest.</string>
+			<key>answers</key>
+			<array>
+				<string>Guatemala</string>
+				<string>Russia</string>
+				<string>Venezuela</string>
+				<string>Kazakhstan</string>
+				<string>Estonia</string>
+				<string>Mexico</string>
+				<string>Dom. Rep.</string>
+				<string>Latvia</string>
+				<string>Moldova</string>
+				<string>Israel</string>
+			</array>
+		</dict>
+		<dict>
+			<key>type</key>
+			<string>rank</string>
+			<key>correct answer</key>
+			<array>
+				<string>1999</string>
+				<string>2000</string>
+				<string>2001</string>
+				<string>1996</string>
+				<string>2002</string>
+				<string>2004</string>
+				<string>2003</string>
+				<string>1998</string>
+				<string>1997</string>
+				<string>2005</string>
+			</array>
+			<key>question</key>
+			<string>Order all values for Guatemala from lowest to highest.</string>
+			<key>answers</key>
+			<array>
+				<string>1996</string>
+				<string>1997</string>
+				<string>1998</string>
+				<string>1999</string>
+				<string>2000</string>
+				<string>2001</string>
+				<string>2002</string>
+				<string>2003</string>
+				<string>2004</string>
+				<string>2005</string>
+			</array>
+		</dict>
+		<dict>
+			<key>correct answer</key>
+			<array>
+				<string>9.457928</string>
+				<string>17.25858</string>
+			</array>
+			<key>type</key>
+			<string>two-bar</string>
+			<key>question</key>
+			<string>Indicate the range of values for Mexico.</string>
+			<key>answers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>correct answer</key>
+			<array>
+				<string>3.574071</string>
+				<string>32.97674</string>
+			</array>
+			<key>type</key>
+			<string>two-bar</string>
+			<key>question</key>
+			<string>Indicate the range of values for 2004.</string>
+			<key>answers</key>
+			<array/>
+		</dict>
+		<dict>
+			<key>correct answer</key>
+			<array>
+				<string>average</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>The value for Estonia in 2001 is in relation to the other values for Estonia ...</string>
+			<key>answers</key>
+			<array>
+				<string>low</string>
+				<string>average</string>
+				<string>high</string>
+			</array>
+		</dict>
+		<dict>
+			<key>correct answer</key>
+			<array>
+				<string>low</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>The value for Russia in 2005 is in relation to the other values for Russia ...</string>
+			<key>answers</key>
+			<array>
+				<string>low</string>
+				<string>average</string>
+				<string>high</string>
+			</array>
+		</dict>
+		<dict>
+			<key>correct answer</key>
+			<array>
+				<string>Moldova</string>
+				<string>Latvia</string>
+				<string>Estonia</string>
+			</array>
+			<key>type</key>
+			<string>multi</string>
+			<key>question</key>
+			<string>Indicate three countries that follow a similar trend as Mexico.</string>
+			<key>answers</key>
+			<array>
+				<string>Guatemala</string>
+				<string>Russia</string>
+				<string>Venezuela</string>
+				<string>Kazakhstan</string>
+				<string>Estonia</string>
+				<string>Mexico</string>
+				<string>Dom. Rep.</string>
+				<string>Latvia</string>
+				<string>Moldova</string>
+				<string>Israel</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

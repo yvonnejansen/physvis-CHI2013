@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Root</key>
+	<array>
+		<dict>
+			<key>useColors</key>
+			<false/>
+			<key>correct answer</key>
+			<array>
+				<string>Belgium in 1959</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which of the following suicide rates is the lowest?</string>
+			<key>name</key>
+			<string>choice</string>
+			<key>answers</key>
+			<array>
+				<string>Belgium in 1959</string>
+				<string>Canada in 1984</string>
+				<string>Sweden in 1994</string>
+			</array>
+		</dict>
+		<dict>
+			<key>useColors</key>
+			<false/>
+			<key>correct answer</key>
+			<array>
+				<string>Sweden in 1994</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which of the following suicide rates is the lowest?</string>
+			<key>name</key>
+			<string>choice</string>
+			<key>answers</key>
+			<array>
+				<string>Switzerland in 1964</string>
+				<string>Sweden in 1994</string>
+				<string>Canada in 1984</string>
+			</array>
+		</dict>
+		<dict>
+			<key>useColors</key>
+			<false/>
+			<key>correct answer</key>
+			<array>
+				<string>Denmark in 1994</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which of the following suicide rates is the lowest?</string>
+			<key>name</key>
+			<string>choice</string>
+			<key>answers</key>
+			<array>
+				<string>Sweden in 1959</string>
+				<string>Belgium in 1989</string>
+				<string>Denmark in 1994</string>
+			</array>
+		</dict>
+		<dict>
+			<key>useColors</key>
+			<false/>
+			<key>correct answer</key>
+			<array>
+				<string>Canada in 1964</string>
+			</array>
+			<key>type</key>
+			<string>radio</string>
+			<key>question</key>
+			<string>Which of the following suicide rates is the lowest?</string>
+			<key>name</key>
+			<string>choice</string>
+			<key>answers</key>
+			<array>
+				<string>Canada in 1964</string>
+				<string>Norway in 1994</string>
+				<string>Sweden in 1999</string>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>

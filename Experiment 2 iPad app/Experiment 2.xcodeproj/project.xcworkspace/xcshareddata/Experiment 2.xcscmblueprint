@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "0d1c9f04-d229-0410-8ab3-be065fec5d02++7274",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "0d1c9f04-d229-0410-8ab3-be065fec5d02++7274" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "0d1c9f04-d229-0410-8ab3-be065fec5d02++7274" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3879CE5B-AFA4-46B5-A1FA-06440262D12C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "0d1c9f04-d229-0410-8ab3-be065fec5d02++7274" : "Experiment%202%20iPad%20app\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Experiment 2",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Experiment 2.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/scm.gforge.inria.fr\/authscm\/yjansen\/svn\/aviz",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "0d1c9f04-d229-0410-8ab3-be065fec5d02++7274"
+    }
+  ]
+}
