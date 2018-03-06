@@ -1,0 +1,12 @@
+7	co2percapita		1968-2004		2.8% in 1972
+5	agricultural land	1968-2004		2.5% in 2000	3.2% in 1992
+6	army percent		1992-2001		3.4% in 2000					excl. Armenia, Laos
+4	Car mortality		1997-2006		2.6% in 2001	2% in 1998
+2	Dependency ratio	1950-1990		2.3% in 1975						excl. Singapore, Grenada, Saint Lucia, Mauritius
+8	Electricity cons.	1971-1998		2.5% in 1983 & 1995
+9	HIV prevalence		1991-2009		3.3% in 2003
+3	Ext. debt stock		1995-2004		3.5% in 1997
+10	Gross capital form.	1966-2002		3% in 1974
+1	Milit. expenditure	1997-2006		2.6% in 2000
+0	Suicides			1954-1999		3.8% in 1959
+11	Total health exp.	1997-2006		1.9% in 1999

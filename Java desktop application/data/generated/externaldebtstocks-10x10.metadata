@@ -1,0 +1,33 @@
+<dataInfo>
+   <title>externaldebtstocks</title>
+   <axisLabeling>
+      <minAxisValue>0.0</minAxisValue>
+      <maxAxisValue>900.0</maxAxisValue>
+      <ticks>
+         <tick value="0.0" label="0"/>
+         <tick value="100.0" label="100"/>
+         <tick value="200.0" label="200"/>
+         <tick value="300.0" label="300"/>
+         <tick value="400.0" label="400"/>
+         <tick value="500.0" label="500"/>
+         <tick value="600.0" label="600"/>
+         <tick value="700.0" label="700"/>
+         <tick value="800.0" label="800"/>
+         <tick value="900.0" label="900"/>
+      </ticks>
+   </axisLabeling>
+   <colorCoding class="fr.inria.aviz.physEval.data.RowColorCoding">
+      <palette>
+         <color r="51" g="160" b="44" a="255"/>
+         <color r="178" g="223" b="138" a="255"/>
+         <color r="31" g="120" b="180" a="255"/>
+         <color r="166" g="206" b="227" a="255"/>
+         <color r="106" g="61" b="154" a="255"/>
+         <color r="202" g="178" b="214" a="255"/>
+         <color r="227" g="26" b="28" a="255"/>
+         <color r="251" g="154" b="153" a="255"/>
+         <color r="255" g="127" b="0" a="255"/>
+         <color r="253" g="191" b="111" a="255"/>
+      </palette>
+   </colorCoding>
+</dataInfo>
